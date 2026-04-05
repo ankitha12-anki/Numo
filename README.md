@@ -62,5 +62,5 @@ Open your browser to `http://localhost:3000`.
 
 ## 📅 Project Details
 - **Project Name**: Numo.com
-- **Author**: Ankit
+- **Author**: Ankitha
 - **Stack**: Full-Stack (React + Django + Supabase)
